@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Kaitlyn! 🤎</h1>
 <h3 align="center">👩🏽‍💻 Software engineer sharing my journey, learnings, and experiences in tech! <br/> 🎓 Studied Computer Science at Southeastern Louisiana University <br/> 💭 Currently sharpening my skills in full-stack development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiihayes" alt="kaiihayes" /></a> </p>
-
 - 🔭 I’m currently working on **my portfolio website**
 
 - 📫 You can reach me at **hayeskaitlyn10@gmail.com**

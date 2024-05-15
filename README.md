@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Kaitlyn! 🤎</h1>
-<h3 align="center">👩🏽‍💻 Software engineer sharing my journey, learnings, and experiences in tech! <br/> 🎓 Studied Computer Science at Southeastern Louisiana University <br/> 💭 Currently sharpening my skills in full-stack development</h3>
+<h3 align="center">👩🏽‍💻 Software engineer sharing my journey, learnings, and experiences in tech! <br/>
+  🎓 Studied Computer Science at Southeastern Louisiana University <br/> 
+  💭 Currently sharpening my skills in full-stack development<br/>
+  Contact me: hayeskaitlyn10@gmail.com 📧
+</h3>
 
 
 
